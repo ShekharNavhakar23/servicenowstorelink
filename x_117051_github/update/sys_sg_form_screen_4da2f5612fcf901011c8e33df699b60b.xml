@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_stream_name/>
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <detail_name/>
+        <detail_view/>
+        <disable_related_list_count>false</disable_related_list_count>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <functions/>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">41a2f5612fcf901011c8e33df699b606</icon>
+        <include_activity_stream>true</include_activity_stream>
+        <include_additional_comment>false</include_additional_comment>
+        <include_attachment_upload>false</include_attachment_upload>
+        <include_detail_view>true</include_detail_view>
+        <include_related_lists>true</include_related_lists>
+        <include_work_note>false</include_work_note>
+        <item_view display_value="github Detail Screen Item View">05a2f5612fcf901011c8e33df699b60a</item_view>
+        <name>github Form Screen</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <related_list_name/>
+        <related_lists/>
+        <roles/>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-04 10:29:44</sys_created_on>
+        <sys_id>4da2f5612fcf901011c8e33df699b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>github Form Screen</sys_name>
+        <sys_package display_value="github" source="x_117051_github">233239e12fcf901011c8e33df699b623</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="github">233239e12fcf901011c8e33df699b623</sys_scope>
+        <sys_update_name>sys_sg_form_screen_4da2f5612fcf901011c8e33df699b60b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-04 10:29:44</sys_updated_on>
+        <table>x_117051_github_github</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4da2f5612fcf901011c8e33df699b60b"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_new_menu_item">
+    <sys_aw_new_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sys_class_name>sys_aw_new_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-04 10:30:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7dc231252fcf901011c8e33df699b654</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_117051_github_github</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="github" source="x_117051_github">233239e12fcf901011c8e33df699b623</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="github">233239e12fcf901011c8e33df699b623</sys_scope>
+        <sys_update_name>sys_aw_new_menu_item_7dc231252fcf901011c8e33df699b654</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-04 10:30:19</sys_updated_on>
+        <table>x_117051_github_github</table>
+        <workspace_config display_value="github">15c231252fcf901011c8e33df699b601</workspace_config>
+    </sys_aw_new_menu_item>
+</record_update>
